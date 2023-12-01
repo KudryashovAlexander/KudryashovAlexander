@@ -7,11 +7,26 @@
 
 - 🌱 I’m currently learning **SwiftUI, RxSwift**
 
+- 🍏 My stack: </p>
+  **UIKit, SwiftUI </p>
+  NSLayout, Storyboard </p>
+  MVP, MVVM </p>
+  SPM, CocoaPods </p>
+  Swiflint, Swiftgen, Localization, Analytic, DarkTheme </p>
+  GCD, Async/Await </p>
+  Firebase, REST API, JSON, URLSession, Git/GitHub </p>
+  CoreData, Realm, UserDefaults, Keychain, CoreLocation </p>
+  UITests, UnitTests, ScreenshotTests </p>
+  Figma </p>
+  SOLID, KISS, DRY, YAGNI </p>
+  iOS SDK, LifeCycle App, VC </p>
+  Human Interface Guidelines** </p>
+  
 - 📫 How to reach me **kudryashoff.bm@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexanderkudryashov08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanderkudryashov08" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexanderkudryashov08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanderkudryashov08" height="30" width="40" /> </a> <a href="https://t.me/AlexKudryash" target="blank"><img align="center" src="https://github.com/KudryashovAlexander/KudryashovAlexander/blob/main/telegram-logo-947.png" alt="alexanderkudryashov08" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
