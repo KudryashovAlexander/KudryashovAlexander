@@ -17,7 +17,7 @@
   Firebase, REST API, JSON, URLSession, Git/GitHub,
   CoreData, Realm, UserDefaults, Keychain, CoreLocation,
   UITests, UnitTests, ScreenshotTests,
-  Figma,
+  Figma, Postman, CharlessProxy,
   SOLID, KISS, DRY, YAGNI,
   iOS SDK, LifeCycle App, VC,
   Human Interface Guidelines**
