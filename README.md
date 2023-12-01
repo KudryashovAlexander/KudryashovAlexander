@@ -7,20 +7,20 @@
 
 - 🌱 I’m currently learning **SwiftUI, RxSwift**
 
-- 🍏 My stack: </p>
-  **UIKit, SwiftUI </p>
-  NSLayout, Storyboard </p>
-  MVP, MVVM </p>
-  SPM, CocoaPods </p>
-  Swiflint, Swiftgen, Localization, Analytic, DarkTheme </p>
-  GCD, Async/Await </p>
-  Firebase, REST API, JSON, URLSession, Git/GitHub </p>
-  CoreData, Realm, UserDefaults, Keychain, CoreLocation </p>
-  UITests, UnitTests, ScreenshotTests </p>
-  Figma </p>
-  SOLID, KISS, DRY, YAGNI </p>
-  iOS SDK, LifeCycle App, VC </p>
-  Human Interface Guidelines** </p>
+- 🍏 My stack:
+  **UIKit, SwiftUI,
+  NSLayout, Storyboard,
+  MVP, MVVM,
+  SPM, CocoaPods,
+  Swiflint, Swiftgen, Localization, Analytic, DarkTheme,
+  GCD, Async/Await,
+  Firebase, REST API, JSON, URLSession, Git/GitHub,
+  CoreData, Realm, UserDefaults, Keychain, CoreLocation,
+  UITests, UnitTests, ScreenshotTests,
+  Figma,
+  SOLID, KISS, DRY, YAGNI,
+  iOS SDK, LifeCycle App, VC,
+  Human Interface Guidelines**
   
 - 📫 How to reach me **kudryashoff.bm@yandex.ru**
 
