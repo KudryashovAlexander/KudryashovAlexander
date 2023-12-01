@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexander Kudryashov</h1>
-<h3 align="center">A iOS developer from Russia</h3>
+<h2 align="left">Hi 👋, I'm Alexander Kudryashov</h1>
+<h3 align="left">iOS developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kudryashovalexander&label=Profile%20views&color=0e75b6&style=flat" alt="kudryashovalexander" /> </p>
 
