@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kudryashovalexander&label=Profile%20views&color=0e75b6&style=flat" alt="kudryashovalexander" /> </p>
 
-- 🔭 I’m currently working on **Memorize**
+- 🔭 I’m currently working on **[Memorize](https://github.com/Mobile-app-promotions-and-discounts/IOSApp)**
 
-- 🌱 I’m currently learning **SwiftUI, RxSwift**
+- 🌱 I’m currently learning **SwiftUI,Combine**
 
 - 🍏 My stack:
   **UIKit, SwiftUI,
