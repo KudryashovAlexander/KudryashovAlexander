@@ -1,26 +1,24 @@
-<h2 align="left">Hi 👋, I'm Alexander Kudryashov</h1>
-<h3 align="left">iOS developer from Russia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kudryashovalexander&label=Profile%20views&color=0e75b6&style=flat" alt="kudryashovalexander" /> </p>
+<h2 align="left">Hi, I'm Alexander Kudryashov</h1>
+<h4 align="left">iOS developer,Russia,Moscow</h4>  
 
 - 🔭 I’m currently working on **[CherryApp](https://github.com/Mobile-app-promotions-and-discounts/IOSApp)**
 
-- 🌱 I’m currently learning **SwiftUI,Combine**
+- 🌱 I’m currently learning **SwiftUI, Combine**
 
 - 🍏 My stack:
-  **UIKit, SwiftUI,
-  NSLayout, Storyboard,
-  MVP, MVVM,
-  SPM, CocoaPods,
-  Swiflint, Swiftgen, Localization, Analytic, DarkTheme,
-  GCD, Async/Await,
-  Firebase, REST API, JSON, URLSession, Git/GitHub,
-  CoreData, Realm, UserDefaults, Keychain, CoreLocation,
-  UITests, UnitTests, ScreenshotTests,
-  Figma, Postman, CharlessProxy,
-  SOLID, KISS, DRY, YAGNI,
-  iOS SDK, LifeCycle App, VC,
-  Human Interface Guidelines**
+  - **UIKit, SwiftUI**
+  - **NSLayout, Storyboard, Combine**
+  - **MVP, MVVM, MVVM + Coordinator**
+  - **SPM, CocoaPods**
+  - **Swiflint, Swiftgen, Localization, Analytic, DarkTheme**
+  - **GCD, Async/Await**
+  - **Firebase, REST API, JSON, URLSession, Git/GitHub**
+  - **CoreData, Realm, UserDefaults, Keychain, CoreLocation**
+  - **UITests, UnitTests, ScreenshotTests**
+  - **Figma, Postman, CharlessProxy**
+  - **SOLID, KISS, DRY, YAGNI**
+  - **iOS SDK, LifeCycle App, VC**
+  - **Human Interface Guidelines**
   
 - 📫 How to reach me **kudryashoff.bm@yandex.ru**
 
