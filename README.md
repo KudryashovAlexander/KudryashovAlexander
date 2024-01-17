@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kudryashovalexander&label=Profile%20views&color=0e75b6&style=flat" alt="kudryashovalexander" /> </p>
 
-- 🔭 I’m currently working on **[Memorize](https://github.com/Mobile-app-promotions-and-discounts/IOSApp)**
+- 🔭 I’m currently working on **[CherryApp](https://github.com/Mobile-app-promotions-and-discounts/IOSApp)**
 
 - 🌱 I’m currently learning **SwiftUI,Combine**
 
