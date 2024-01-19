@@ -9,7 +9,7 @@
   - **UIKit, SwiftUI**
   - **NSLayout, Storyboard, Combine**
   - **MVP, MVVM, MVVM + Coordinator**
-  - **SPM, CocoaPods**
+  - **SPM, CocoaPods, Homebrew**
   - **Swiflint, Swiftgen, Localization, Analytic, DarkTheme**
   - **GCD, Async/Await**
   - **Firebase, REST API, JSON, URLSession, Git/GitHub**
