@@ -1,7 +1,7 @@
 <h2 align="left">Hi, I'm Alexander Kudryashov</h1>
 <h4 align="left">iOS developer,Russia,Moscow</h4>  
 
-- 🔭 I’m currently working on **[CherryApp](https://github.com/Mobile-app-promotions-and-discounts/IOSApp)**
+- 🔭 I’m currently working on **Докт24**
 
 - 🌱 I’m currently learning **SwiftUI, Combine**
 
