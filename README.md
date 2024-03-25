@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Докт24**
 
-- 🌱 I’m currently learning **SwiftUI, Combine**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 🍏 My stack:
   - **UIKit, SwiftUI**
